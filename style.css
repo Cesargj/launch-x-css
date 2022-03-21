@@ -1,0 +1,24 @@
+
+
+  ul {
+    text-decoration: None;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+ul {
+    border: 30px solid #ffffff;
+    background-color: #ffffff;
+}
+
+li a {
+    color: rgb(0, 0, 0);
+}
+li a.active {
+    color: white;
+    background-color: #0853f6;
+}
+<a style= text-decoration: none;
